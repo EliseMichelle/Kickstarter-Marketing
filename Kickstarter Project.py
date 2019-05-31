@@ -1,3 +1,13 @@
+
+#Chosen kickstarter project: Title: 
+Entheon: The Alex Grey Visionary Art Experience
+Category: Art
+Backers: 1510
+Pledge USD: $210127.69
+Goal: $125000.00
+
+
+
 #!/usr/bin/env python
 # coding: utf-8
 
